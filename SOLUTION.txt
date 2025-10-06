@@ -1,0 +1,3 @@
+The correct command is:
+
+GIT_DIR=/c/data/repo.git GIT_WORK_TREE=/c/www/html/ git status
